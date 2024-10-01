@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.Equipo3ProyectoFiverr.Equipo3ProyectoFiverrApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.246 s - in com.example.Equipo3ProyectoFiverr.Equipo3ProyectoFiverrApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.182 s - in com.example.Equipo3ProyectoFiverr.Equipo3ProyectoFiverrApplicationTests
